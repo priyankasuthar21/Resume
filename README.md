@@ -1,2 +1,2 @@
-# Resume
-https://priyankasuthar21.github.io/Resume/
+# https://priyankasuthar21.github.io/Resume/ 
+Resume
